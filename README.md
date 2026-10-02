@@ -19,8 +19,8 @@ Holding a degree in Software Engineering from the National Transport University,
 * **Adaptability & Creativity:** capable of bridging strict back-end logic with creative front-end design to deliver complete, user-centric products.
 
 ## Featured Projects
-* **EventFlow:** an asynchronous, fault-tolerant event processing backend utilizing FastAPI, RabbitMQ, and PostgreSQL. Engineered with enterprise patterns including a Dead Letter Queue (DLQ), exponential backoff retries, and strict database-level idempotency.
-(https://github.com/alekspvlnk/EventFlow)
-* **Digital Subscription Expense Monitoring:** a comprehensive information system developed as my university graduation project. Involved end-to-end development, from system architecture and database schema design to final deployment.
+* **[EventFlow:](https://github.com/alekspvlnk/EventFlow)** an asynchronous, fault-tolerant event processing backend utilizing FastAPI, RabbitMQ, and PostgreSQL. Engineered with enterprise patterns including a Dead Letter Queue (DLQ), exponential backoff retries, and strict database-level idempotency.
+
+* **[Digital Subscription Expense Monitoring](https://github.com/alekspvlnk/subscription-monitor):** a comprehensive information system developed as my university graduation project. Involved end-to-end development, from system architecture and database schema design to final deployment.
 (https://github.com/alekspvlnk/subscription-monitor)
 * **Interactive Telegram Web Apps:** designed and developed custom interactive web applications and Telegram Web Apps, integrating creative front-end logic with reliable back-end processing.
